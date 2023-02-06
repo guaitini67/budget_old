@@ -1,0 +1,6 @@
+*
+num_g(in/out),num_operaz,num_righe_commento
+1, +/-importo	,mot	,cat	,viene_da, va_in, num_g(out/in),xx
+
+
+num_g=aaaammgg
